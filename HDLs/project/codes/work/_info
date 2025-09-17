@@ -1,0 +1,107 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dE:/working/College and Courses/FPGA/Verilog Code/assignment 4
+vBaud_gen
+Z0 !s110 1710460373
+!i10b 1
+!s100 cb=oPoF_9K7mYc[KIHTFC3
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I3OK0cS^ZH=Qf?PXo=B57f3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dE:/working/College and Courses/FPGA/project/codes
+w1710459781
+8Baud_gen.v
+FBaud_gen.v
+!i122 62
+L0 1 21
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1710460373.000000
+!s107 Baud_gen.v|
+!s90 -reportprogress|300|-work|work|Baud_gen.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+n@baud_gen
+vShift_reg
+R0
+!i10b 1
+!s100 eAH=I0>@Y`G<8ZKdK0o>Z2
+R1
+IF4BJC37[JWBoRdQA^O:HE0
+R2
+R3
+w1710458853
+8PISO_reg.v
+FPISO_reg.v
+!i122 63
+L0 1 20
+R4
+r1
+!s85 0
+31
+R5
+!s107 PISO_reg.v|
+!s90 -reportprogress|300|-work|work|PISO_reg.v|
+!i113 1
+R6
+R7
+n@shift_reg
+vUART
+R0
+!i10b 1
+!s100 6_@E7lI>5KLgCY3<DY9nK2
+R1
+IMM`150KB_?MH]>I7Aa>[h0
+R2
+R3
+w1710460137
+8UART.v
+FUART.v
+!i122 64
+L0 1 39
+R4
+r1
+!s85 0
+31
+R5
+!s107 UART.v|
+!s90 -reportprogress|300|-work|work|UART.v|
+!i113 1
+R6
+R7
+n@u@a@r@t
+vUART_tb
+R0
+!i10b 1
+!s100 e@Zb=EKQ@3`db9Q1^Pi2Q1
+R1
+I5A[C[S^7hnN3V:ZiAcIa@1
+R2
+R3
+w1710460369
+8UART_tb.v
+FUART_tb.v
+!i122 65
+L0 1 26
+R4
+r1
+!s85 0
+31
+R5
+!s107 UART_tb.v|
+!s90 -reportprogress|300|-work|work|UART_tb.v|
+!i113 1
+R6
+R7
+n@u@a@r@t_tb

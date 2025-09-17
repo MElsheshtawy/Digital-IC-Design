@@ -1,0 +1,130 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dE:/working/College and Courses/FPGA/Verilog Code/assignment 3
+vCounter
+Z0 !s110 1710169963
+!i10b 1
+!s100 972bX8_O5_7n3ZXI>Q@kN1
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I8@U]n^z:?I^T:3=Pno[zU3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dE:/working/College and Courses/FPGA/Verilog Code/assignment 4
+w1710169957
+Z4 8Counter.v
+Z5 FCounter.v
+!i122 39
+L0 1 37
+Z6 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z7 !s108 1710169963.000000
+Z8 !s107 Counter.v|
+Z9 !s90 -reportprogress|300|-work|work|Counter.v|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+n@counter
+vCounter_tb
+R0
+!i10b 1
+!s100 =hUX<@fAYc>FXmIHoe2JN0
+R1
+IZabgaD[QH9ZAfI_IH:07b3
+R2
+R3
+w1710169046
+8Counter_tb.v
+FCounter_tb.v
+!i122 40
+L0 1 19
+R6
+r1
+!s85 0
+31
+R7
+!s107 Counter_tb.v|
+!s90 -reportprogress|300|-work|work|Counter_tb.v|
+!i113 1
+R10
+R11
+n@counter_tb
+vDivider
+Z12 !s110 1710088138
+!i10b 1
+!s100 U3>1jW=A>IBE2R<TXB^^F0
+R1
+I86U5^<SG;L]7`]5AT]RiO3
+R2
+R3
+w1710088103
+R4
+R5
+!i122 9
+L0 1 30
+R6
+r1
+!s85 0
+31
+Z13 !s108 1710088138.000000
+R8
+R9
+!i113 1
+R10
+R11
+n@divider
+vDivider_tb
+R12
+!i10b 1
+!s100 c?0mCfc30l98_;Vb`[0?^2
+R1
+IB]i:zHFo<V]1^PlB_2GK`0
+R2
+R3
+w1710087593
+8Divider_tb.v
+FDivider_tb.v
+!i122 10
+L0 1 20
+R6
+r1
+!s85 0
+31
+R13
+!s107 Divider_tb.v|
+!s90 -reportprogress|300|-work|work|Divider_tb.v|
+!i113 1
+R10
+R11
+n@divider_tb
+vff
+R12
+!i10b 1
+!s100 iA[^iX_Sg[OIz^QmOLW5n3
+R1
+IZFI7IlO1SQG]z_AUTh7ia3
+R2
+R3
+w1709940251
+8FF.v
+FFF.v
+!i122 8
+L0 1 17
+R6
+r1
+!s85 0
+31
+!s108 1710088137.000000
+!s107 FF.v|
+!s90 -reportprogress|300|-work|work|FF.v|
+!i113 1
+R10
+R11

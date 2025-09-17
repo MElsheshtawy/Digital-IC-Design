@@ -1,0 +1,988 @@
+do run.do
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 01:23:06 on Mar 15,2024
+# vlog -reportprogress 300 -work work Baud_gen.v 
+# ** Error: (vlog-13069) Baud_gen.v(1): near "{": syntax error, unexpected '{'.
+# End time: 01:23:06 on Mar 15,2024, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+# ** Error: C:/intelFPGA/20.1/modelsim_ase/win32aloem/vlog failed.
+# Error in macro ./run.do line 3
+# C:/intelFPGA/20.1/modelsim_ase/win32aloem/vlog failed.
+#     while executing
+# "vlog -work work Baud_gen.v"
+do run.do
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 01:24:38 on Mar 15,2024
+# vlog -reportprogress 300 -work work Baud_gen.v 
+# -- Compiling module Baud_gen
+# ** Warning: Baud_gen.v(11): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+# 
+# Top level modules:
+# 	Baud_gen
+# End time: 01:24:38 on Mar 15,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 1
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 01:24:38 on Mar 15,2024
+# vlog -reportprogress 300 -work work PISO_reg.v 
+# -- Compiling module Shift_reg
+# ** Error: PISO_reg.v(12): The generate if condition must be a constant expression.
+# ** Error: PISO_reg.v(18): (vlog-2110) Illegal reference to net "Data".
+# End time: 01:24:38 on Mar 15,2024, Elapsed time: 0:00:00
+# Errors: 2, Warnings: 0
+# ** Error: C:/intelFPGA/20.1/modelsim_ase/win32aloem/vlog failed.
+# Error in macro ./run.do line 4
+# C:/intelFPGA/20.1/modelsim_ase/win32aloem/vlog failed.
+#     while executing
+# "vlog -work work PISO_reg.v"
+do run.do
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 01:26:17 on Mar 15,2024
+# vlog -reportprogress 300 -work work Baud_gen.v 
+# -- Compiling module Baud_gen
+# ** Warning: Baud_gen.v(11): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+# 
+# Top level modules:
+# 	Baud_gen
+# End time: 01:26:17 on Mar 15,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 1
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 01:26:17 on Mar 15,2024
+# vlog -reportprogress 300 -work work PISO_reg.v 
+# -- Compiling module Shift_reg
+# ** Error: (vlog-13069) PISO_reg.v(15): near "else": syntax error, unexpected else.
+# ** Error: PISO_reg.v(18): (vlog-13205) Syntax error found in the scope following 'Memory'. Is there a missing '::'?
+# End time: 01:26:17 on Mar 15,2024, Elapsed time: 0:00:00
+# Errors: 2, Warnings: 0
+# ** Error: C:/intelFPGA/20.1/modelsim_ase/win32aloem/vlog failed.
+# Error in macro ./run.do line 4
+# C:/intelFPGA/20.1/modelsim_ase/win32aloem/vlog failed.
+#     while executing
+# "vlog -work work PISO_reg.v"
+do run.do
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 01:27:40 on Mar 15,2024
+# vlog -reportprogress 300 -work work Baud_gen.v 
+# -- Compiling module Baud_gen
+# ** Warning: Baud_gen.v(11): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+# 
+# Top level modules:
+# 	Baud_gen
+# End time: 01:27:41 on Mar 15,2024, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 1
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 01:27:41 on Mar 15,2024
+# vlog -reportprogress 300 -work work PISO_reg.v 
+# -- Compiling module Shift_reg
+# 
+# Top level modules:
+# 	Shift_reg
+# End time: 01:27:41 on Mar 15,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 01:27:41 on Mar 15,2024
+# vlog -reportprogress 300 -work work UART.v 
+# -- Compiling module UART
+# ** Error: (vlog-13038) UART.v(9): near ")": Missing port in ansi port list.
+# End time: 01:27:41 on Mar 15,2024, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+# ** Error: C:/intelFPGA/20.1/modelsim_ase/win32aloem/vlog failed.
+# Error in macro ./run.do line 5
+# C:/intelFPGA/20.1/modelsim_ase/win32aloem/vlog failed.
+#     while executing
+# "vlog -work work UART.v"
+do run.do
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 01:28:14 on Mar 15,2024
+# vlog -reportprogress 300 -work work Baud_gen.v 
+# -- Compiling module Baud_gen
+# ** Warning: Baud_gen.v(11): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+# 
+# Top level modules:
+# 	Baud_gen
+# End time: 01:28:14 on Mar 15,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 1
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 01:28:14 on Mar 15,2024
+# vlog -reportprogress 300 -work work PISO_reg.v 
+# -- Compiling module Shift_reg
+# 
+# Top level modules:
+# 	Shift_reg
+# End time: 01:28:14 on Mar 15,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 01:28:14 on Mar 15,2024
+# vlog -reportprogress 300 -work work UART.v 
+# -- Compiling module UART
+# ** Error: UART.v(17): The generate if condition must be a constant expression.
+# ** Error: UART.v(18): The generate if condition must be a constant expression.
+# ** Error: UART.v(31): (vlog-2110) Illegal reference to net "O_Data".
+# ** Error: UART.v(34): (vlog-2110) Illegal reference to net "O_Data".
+# ** Error: UART.v(36): (vlog-2110) Illegal reference to net "O_Busy".
+# ** Error: UART.v(37): (vlog-2110) Illegal reference to net "O_Done".
+# ** Error: UART.v(41): (vlog-2110) Illegal reference to net "O_Data".
+# End time: 01:28:14 on Mar 15,2024, Elapsed time: 0:00:00
+# Errors: 7, Warnings: 0
+# ** Error: C:/intelFPGA/20.1/modelsim_ase/win32aloem/vlog failed.
+# Error in macro ./run.do line 5
+# C:/intelFPGA/20.1/modelsim_ase/win32aloem/vlog failed.
+#     while executing
+# "vlog -work work UART.v"
+do run.do
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 01:30:27 on Mar 15,2024
+# vlog -reportprogress 300 -work work Baud_gen.v 
+# -- Compiling module Baud_gen
+# ** Warning: Baud_gen.v(11): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+# 
+# Top level modules:
+# 	Baud_gen
+# End time: 01:30:28 on Mar 15,2024, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 1
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 01:30:28 on Mar 15,2024
+# vlog -reportprogress 300 -work work PISO_reg.v 
+# -- Compiling module Shift_reg
+# 
+# Top level modules:
+# 	Shift_reg
+# End time: 01:30:28 on Mar 15,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 01:30:28 on Mar 15,2024
+# vlog -reportprogress 300 -work work UART.v 
+# -- Compiling module UART
+# ** Error: (vlog-13069) UART.v(17): near "always": syntax error, unexpected always.
+# ** Error: (vlog-13069) UART.v(45): near "end": syntax error, unexpected end.
+# End time: 01:30:28 on Mar 15,2024, Elapsed time: 0:00:00
+# Errors: 2, Warnings: 0
+# ** Error: C:/intelFPGA/20.1/modelsim_ase/win32aloem/vlog failed.
+# Error in macro ./run.do line 5
+# C:/intelFPGA/20.1/modelsim_ase/win32aloem/vlog failed.
+#     while executing
+# "vlog -work work UART.v"
+do run.do
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 01:31:27 on Mar 15,2024
+# vlog -reportprogress 300 -work work Baud_gen.v 
+# -- Compiling module Baud_gen
+# ** Warning: Baud_gen.v(11): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+# 
+# Top level modules:
+# 	Baud_gen
+# End time: 01:31:27 on Mar 15,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 1
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 01:31:27 on Mar 15,2024
+# vlog -reportprogress 300 -work work PISO_reg.v 
+# -- Compiling module Shift_reg
+# 
+# Top level modules:
+# 	Shift_reg
+# End time: 01:31:27 on Mar 15,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 01:31:27 on Mar 15,2024
+# vlog -reportprogress 300 -work work UART.v 
+# -- Compiling module UART
+# ** Error: (vlog-13069) UART.v(18): near "always": syntax error, unexpected always.
+# ** Error: (vlog-13069) UART.v(45): near "end": syntax error, unexpected end.
+# End time: 01:31:27 on Mar 15,2024, Elapsed time: 0:00:00
+# Errors: 2, Warnings: 0
+# ** Error: C:/intelFPGA/20.1/modelsim_ase/win32aloem/vlog failed.
+# Error in macro ./run.do line 5
+# C:/intelFPGA/20.1/modelsim_ase/win32aloem/vlog failed.
+#     while executing
+# "vlog -work work UART.v"
+do run.do
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 01:32:13 on Mar 15,2024
+# vlog -reportprogress 300 -work work Baud_gen.v 
+# -- Compiling module Baud_gen
+# ** Warning: Baud_gen.v(11): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+# 
+# Top level modules:
+# 	Baud_gen
+# End time: 01:32:13 on Mar 15,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 1
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 01:32:13 on Mar 15,2024
+# vlog -reportprogress 300 -work work PISO_reg.v 
+# -- Compiling module Shift_reg
+# 
+# Top level modules:
+# 	Shift_reg
+# End time: 01:32:13 on Mar 15,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 01:32:13 on Mar 15,2024
+# vlog -reportprogress 300 -work work UART.v 
+# -- Compiling module UART
+# ** Error: (vlog-13069) UART.v(18): near "always": syntax error, unexpected always.
+# ** Error: (vlog-13069) UART.v(25): near "<=": syntax error, unexpected <=.
+# ** Error: UART.v(25): (vlog-13205) Syntax error found in the scope following 'getData'. Is there a missing '::'?
+# End time: 01:32:13 on Mar 15,2024, Elapsed time: 0:00:00
+# Errors: 3, Warnings: 0
+# ** Error: C:/intelFPGA/20.1/modelsim_ase/win32aloem/vlog failed.
+# Error in macro ./run.do line 5
+# C:/intelFPGA/20.1/modelsim_ase/win32aloem/vlog failed.
+#     while executing
+# "vlog -work work UART.v"
+do run.do
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 01:32:57 on Mar 15,2024
+# vlog -reportprogress 300 -work work Baud_gen.v 
+# -- Compiling module Baud_gen
+# ** Warning: Baud_gen.v(11): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+# 
+# Top level modules:
+# 	Baud_gen
+# End time: 01:32:57 on Mar 15,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 1
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 01:32:57 on Mar 15,2024
+# vlog -reportprogress 300 -work work PISO_reg.v 
+# -- Compiling module Shift_reg
+# 
+# Top level modules:
+# 	Shift_reg
+# End time: 01:32:57 on Mar 15,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 01:32:57 on Mar 15,2024
+# vlog -reportprogress 300 -work work UART.v 
+# -- Compiling module UART
+# ** Error: UART.v(25): (vlog-2110) Illegal reference to net "O_Data".
+# ** Error: UART.v(28): (vlog-2110) Illegal reference to net "O_Data".
+# ** Error: UART.v(30): (vlog-2110) Illegal reference to net "O_Busy".
+# ** Error: UART.v(31): (vlog-2110) Illegal reference to net "O_Done".
+# ** Error: UART.v(35): (vlog-2110) Illegal reference to net "O_Data".
+# End time: 01:32:57 on Mar 15,2024, Elapsed time: 0:00:00
+# Errors: 5, Warnings: 0
+# ** Error: C:/intelFPGA/20.1/modelsim_ase/win32aloem/vlog failed.
+# Error in macro ./run.do line 5
+# C:/intelFPGA/20.1/modelsim_ase/win32aloem/vlog failed.
+#     while executing
+# "vlog -work work UART.v"
+do run.do
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 01:33:29 on Mar 15,2024
+# vlog -reportprogress 300 -work work Baud_gen.v 
+# -- Compiling module Baud_gen
+# ** Warning: Baud_gen.v(11): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+# 
+# Top level modules:
+# 	Baud_gen
+# End time: 01:33:29 on Mar 15,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 1
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 01:33:29 on Mar 15,2024
+# vlog -reportprogress 300 -work work PISO_reg.v 
+# -- Compiling module Shift_reg
+# 
+# Top level modules:
+# 	Shift_reg
+# End time: 01:33:29 on Mar 15,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 01:33:29 on Mar 15,2024
+# vlog -reportprogress 300 -work work UART.v 
+# -- Compiling module UART
+# 
+# Top level modules:
+# 	UART
+# End time: 01:33:29 on Mar 15,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 01:33:29 on Mar 15,2024
+# vlog -reportprogress 300 -work work UART_tb.v 
+# ** Error: (vlog-13053) UART_tb.v(1): near "'t": Illegal base specifier in numeric constant.
+# ** Error: (vlog-13069) UART_tb.v(1): near "'t": syntax error, unexpected BASE, expecting class.
+# End time: 01:33:29 on Mar 15,2024, Elapsed time: 0:00:00
+# Errors: 2, Warnings: 0
+# ** Error: C:/intelFPGA/20.1/modelsim_ase/win32aloem/vlog failed.
+# Error in macro ./run.do line 6
+# C:/intelFPGA/20.1/modelsim_ase/win32aloem/vlog failed.
+#     while executing
+# "vlog -work work UART_tb.v"
+do run.do
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 01:34:49 on Mar 15,2024
+# vlog -reportprogress 300 -work work Baud_gen.v 
+# -- Compiling module Baud_gen
+# ** Warning: Baud_gen.v(11): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+# 
+# Top level modules:
+# 	Baud_gen
+# End time: 01:34:49 on Mar 15,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 1
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 01:34:49 on Mar 15,2024
+# vlog -reportprogress 300 -work work PISO_reg.v 
+# -- Compiling module Shift_reg
+# 
+# Top level modules:
+# 	Shift_reg
+# End time: 01:34:49 on Mar 15,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 01:34:49 on Mar 15,2024
+# vlog -reportprogress 300 -work work UART.v 
+# -- Compiling module UART
+# 
+# Top level modules:
+# 	UART
+# End time: 01:34:49 on Mar 15,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 01:34:49 on Mar 15,2024
+# vlog -reportprogress 300 -work work UART_tb.v 
+# ** Error: UART_tb.v(1): Error in the specified time literal value of 20.  Expected value of 1, 10, or 100.
+# ** Error: UART_tb.v(1): Error in the specified time literal value of 52080.  Expected value of 1, 10, or 100.
+# -- Compiling module UART_tb
+# ** Error: UART_tb.v(9): (vlog-2730) Undefined variable: 'i_reset_tb'.
+# ** Error: UART_tb.v(15): (vlog-2730) Undefined variable: 'i_en'.
+# ** Error: UART_tb.v(17): (vlog-2730) Undefined variable: 'int'.
+# ** Error: (vlog-13069) UART_tb.v(17): near "i": syntax error, unexpected IDENTIFIER, expecting '='.
+# ** Error: UART_tb.v(17): (vlog-13205) Syntax error found in the scope following 'i'. Is there a missing '::'?
+# End time: 01:34:49 on Mar 15,2024, Elapsed time: 0:00:00
+# Errors: 7, Warnings: 0
+# ** Error: C:/intelFPGA/20.1/modelsim_ase/win32aloem/vlog failed.
+# Error in macro ./run.do line 6
+# C:/intelFPGA/20.1/modelsim_ase/win32aloem/vlog failed.
+#     while executing
+# "vlog -work work UART_tb.v"
+do run.do
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 01:35:25 on Mar 15,2024
+# vlog -reportprogress 300 -work work Baud_gen.v 
+# -- Compiling module Baud_gen
+# ** Warning: Baud_gen.v(11): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+# 
+# Top level modules:
+# 	Baud_gen
+# End time: 01:35:25 on Mar 15,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 1
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 01:35:25 on Mar 15,2024
+# vlog -reportprogress 300 -work work PISO_reg.v 
+# -- Compiling module Shift_reg
+# 
+# Top level modules:
+# 	Shift_reg
+# End time: 01:35:25 on Mar 15,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 01:35:25 on Mar 15,2024
+# vlog -reportprogress 300 -work work UART.v 
+# -- Compiling module UART
+# 
+# Top level modules:
+# 	UART
+# End time: 01:35:25 on Mar 15,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 01:35:25 on Mar 15,2024
+# vlog -reportprogress 300 -work work UART_tb.v 
+# ** Error: UART_tb.v(1): Error in the specified time literal value of 10000.  Expected value of 1, 10, or 100.
+# -- Compiling module UART_tb
+# ** Error: UART_tb.v(9): (vlog-2730) Undefined variable: 'i_reset_tb'.
+# ** Error: UART_tb.v(15): (vlog-2730) Undefined variable: 'i_en'.
+# ** Error: UART_tb.v(17): (vlog-2730) Undefined variable: 'int'.
+# ** Error: (vlog-13069) UART_tb.v(17): near "i": syntax error, unexpected IDENTIFIER, expecting '='.
+# ** Error: UART_tb.v(17): (vlog-13205) Syntax error found in the scope following 'i'. Is there a missing '::'?
+# End time: 01:35:25 on Mar 15,2024, Elapsed time: 0:00:00
+# Errors: 6, Warnings: 0
+# ** Error: C:/intelFPGA/20.1/modelsim_ase/win32aloem/vlog failed.
+# Error in macro ./run.do line 6
+# C:/intelFPGA/20.1/modelsim_ase/win32aloem/vlog failed.
+#     while executing
+# "vlog -work work UART_tb.v"
+do run.do
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 01:36:01 on Mar 15,2024
+# vlog -reportprogress 300 -work work Baud_gen.v 
+# -- Compiling module Baud_gen
+# ** Warning: Baud_gen.v(11): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+# 
+# Top level modules:
+# 	Baud_gen
+# End time: 01:36:02 on Mar 15,2024, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 1
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 01:36:02 on Mar 15,2024
+# vlog -reportprogress 300 -work work PISO_reg.v 
+# -- Compiling module Shift_reg
+# 
+# Top level modules:
+# 	Shift_reg
+# End time: 01:36:02 on Mar 15,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 01:36:02 on Mar 15,2024
+# vlog -reportprogress 300 -work work UART.v 
+# -- Compiling module UART
+# 
+# Top level modules:
+# 	UART
+# End time: 01:36:02 on Mar 15,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 01:36:02 on Mar 15,2024
+# vlog -reportprogress 300 -work work UART_tb.v 
+# ** Error: UART_tb.v(1): Error in the specified time literal value of 10000.  Expected value of 1, 10, or 100.
+# -- Compiling module UART_tb
+# ** Error: UART_tb.v(9): (vlog-2730) Undefined variable: 'i_rst_tb'.
+# ** Error: UART_tb.v(17): (vlog-2730) Undefined variable: 'int'.
+# ** Error: (vlog-13069) UART_tb.v(17): near "i": syntax error, unexpected IDENTIFIER, expecting '='.
+# ** Error: UART_tb.v(17): (vlog-13205) Syntax error found in the scope following 'i'. Is there a missing '::'?
+# End time: 01:36:02 on Mar 15,2024, Elapsed time: 0:00:00
+# Errors: 5, Warnings: 0
+# ** Error: C:/intelFPGA/20.1/modelsim_ase/win32aloem/vlog failed.
+# Error in macro ./run.do line 6
+# C:/intelFPGA/20.1/modelsim_ase/win32aloem/vlog failed.
+#     while executing
+# "vlog -work work UART_tb.v"
+do run.do
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 01:36:45 on Mar 15,2024
+# vlog -reportprogress 300 -work work Baud_gen.v 
+# -- Compiling module Baud_gen
+# ** Warning: Baud_gen.v(11): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+# 
+# Top level modules:
+# 	Baud_gen
+# End time: 01:36:45 on Mar 15,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 1
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 01:36:45 on Mar 15,2024
+# vlog -reportprogress 300 -work work PISO_reg.v 
+# -- Compiling module Shift_reg
+# 
+# Top level modules:
+# 	Shift_reg
+# End time: 01:36:45 on Mar 15,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 01:36:45 on Mar 15,2024
+# vlog -reportprogress 300 -work work UART.v 
+# -- Compiling module UART
+# 
+# Top level modules:
+# 	UART
+# End time: 01:36:45 on Mar 15,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 01:36:45 on Mar 15,2024
+# vlog -reportprogress 300 -work work UART_tb.v 
+# ** Error: UART_tb.v(1): Error in `timescale directive.  <time_precision> must be at least as precise as <time_unit>.
+# -- Compiling module UART_tb
+# ** Error: UART_tb.v(9): (vlog-2730) Undefined variable: 'i_rst_tb'.
+# ** Error: UART_tb.v(17): (vlog-2730) Undefined variable: 'int'.
+# ** Error: (vlog-13069) UART_tb.v(17): near "i": syntax error, unexpected IDENTIFIER, expecting '='.
+# ** Error: UART_tb.v(17): (vlog-13205) Syntax error found in the scope following 'i'. Is there a missing '::'?
+# End time: 01:36:45 on Mar 15,2024, Elapsed time: 0:00:00
+# Errors: 5, Warnings: 0
+# ** Error: C:/intelFPGA/20.1/modelsim_ase/win32aloem/vlog failed.
+# Error in macro ./run.do line 6
+# C:/intelFPGA/20.1/modelsim_ase/win32aloem/vlog failed.
+#     while executing
+# "vlog -work work UART_tb.v"
+do run.do
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 01:37:30 on Mar 15,2024
+# vlog -reportprogress 300 -work work Baud_gen.v 
+# -- Compiling module Baud_gen
+# ** Warning: Baud_gen.v(11): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+# 
+# Top level modules:
+# 	Baud_gen
+# End time: 01:37:30 on Mar 15,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 1
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 01:37:30 on Mar 15,2024
+# vlog -reportprogress 300 -work work PISO_reg.v 
+# -- Compiling module Shift_reg
+# 
+# Top level modules:
+# 	Shift_reg
+# End time: 01:37:30 on Mar 15,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 01:37:30 on Mar 15,2024
+# vlog -reportprogress 300 -work work UART.v 
+# -- Compiling module UART
+# 
+# Top level modules:
+# 	UART
+# End time: 01:37:30 on Mar 15,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 01:37:30 on Mar 15,2024
+# vlog -reportprogress 300 -work work UART_tb.v 
+# -- Compiling module UART_tb
+# ** Error: UART_tb.v(8): (vlog-2730) Undefined variable: 'i_rst_tb'.
+# ** Error: UART_tb.v(16): (vlog-2730) Undefined variable: 'int'.
+# ** Error: (vlog-13069) UART_tb.v(16): near "i": syntax error, unexpected IDENTIFIER, expecting '='.
+# ** Error: UART_tb.v(16): (vlog-13205) Syntax error found in the scope following 'i'. Is there a missing '::'?
+# End time: 01:37:30 on Mar 15,2024, Elapsed time: 0:00:00
+# Errors: 4, Warnings: 0
+# ** Error: C:/intelFPGA/20.1/modelsim_ase/win32aloem/vlog failed.
+# Error in macro ./run.do line 6
+# C:/intelFPGA/20.1/modelsim_ase/win32aloem/vlog failed.
+#     while executing
+# "vlog -work work UART_tb.v"
+do run.do
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 01:39:36 on Mar 15,2024
+# vlog -reportprogress 300 -work work Baud_gen.v 
+# -- Compiling module Baud_gen
+# ** Warning: Baud_gen.v(11): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+# 
+# Top level modules:
+# 	Baud_gen
+# End time: 01:39:36 on Mar 15,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 1
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 01:39:36 on Mar 15,2024
+# vlog -reportprogress 300 -work work PISO_reg.v 
+# -- Compiling module Shift_reg
+# 
+# Top level modules:
+# 	Shift_reg
+# End time: 01:39:36 on Mar 15,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 01:39:36 on Mar 15,2024
+# vlog -reportprogress 300 -work work UART.v 
+# -- Compiling module UART
+# 
+# Top level modules:
+# 	UART
+# End time: 01:39:36 on Mar 15,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 01:39:36 on Mar 15,2024
+# vlog -reportprogress 300 -work work UART_tb.v 
+# -- Compiling module UART_tb
+# ** Error: UART_tb.v(17): 'i' is an invalid type in Generate loop. Must be a genvar.
+# ** Error: (vlog-13069) UART_tb.v(19): near "=": syntax error, unexpected '='.
+# ** Error: UART_tb.v(19): (vlog-13205) Syntax error found in the scope following 'i_en_tb'. Is there a missing '::'?
+# End time: 01:39:36 on Mar 15,2024, Elapsed time: 0:00:00
+# Errors: 3, Warnings: 0
+# ** Error: C:/intelFPGA/20.1/modelsim_ase/win32aloem/vlog failed.
+# Error in macro ./run.do line 6
+# C:/intelFPGA/20.1/modelsim_ase/win32aloem/vlog failed.
+#     while executing
+# "vlog -work work UART_tb.v"
+do run.do
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 01:40:47 on Mar 15,2024
+# vlog -reportprogress 300 -work work Baud_gen.v 
+# -- Compiling module Baud_gen
+# ** Warning: Baud_gen.v(11): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+# 
+# Top level modules:
+# 	Baud_gen
+# End time: 01:40:47 on Mar 15,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 1
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 01:40:47 on Mar 15,2024
+# vlog -reportprogress 300 -work work PISO_reg.v 
+# -- Compiling module Shift_reg
+# 
+# Top level modules:
+# 	Shift_reg
+# End time: 01:40:47 on Mar 15,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 01:40:47 on Mar 15,2024
+# vlog -reportprogress 300 -work work UART.v 
+# -- Compiling module UART
+# 
+# Top level modules:
+# 	UART
+# End time: 01:40:47 on Mar 15,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 01:40:47 on Mar 15,2024
+# vlog -reportprogress 300 -work work UART_tb.v 
+# -- Compiling module UART_tb
+# ** Error: UART_tb.v(18): 'i' is an invalid type in Generate loop. Must be a genvar.
+# ** Error: (vlog-13069) UART_tb.v(20): near "=": syntax error, unexpected '='.
+# ** Error: UART_tb.v(20): (vlog-13205) Syntax error found in the scope following 'i_en_tb'. Is there a missing '::'?
+# End time: 01:40:47 on Mar 15,2024, Elapsed time: 0:00:00
+# Errors: 3, Warnings: 0
+# ** Error: C:/intelFPGA/20.1/modelsim_ase/win32aloem/vlog failed.
+# Error in macro ./run.do line 6
+# C:/intelFPGA/20.1/modelsim_ase/win32aloem/vlog failed.
+#     while executing
+# "vlog -work work UART_tb.v"
+do run.do
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 01:41:56 on Mar 15,2024
+# vlog -reportprogress 300 -work work Baud_gen.v 
+# -- Compiling module Baud_gen
+# ** Warning: Baud_gen.v(11): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+# 
+# Top level modules:
+# 	Baud_gen
+# End time: 01:41:56 on Mar 15,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 1
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 01:41:56 on Mar 15,2024
+# vlog -reportprogress 300 -work work PISO_reg.v 
+# -- Compiling module Shift_reg
+# 
+# Top level modules:
+# 	Shift_reg
+# End time: 01:41:57 on Mar 15,2024, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 01:41:57 on Mar 15,2024
+# vlog -reportprogress 300 -work work UART.v 
+# -- Compiling module UART
+# 
+# Top level modules:
+# 	UART
+# End time: 01:41:57 on Mar 15,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 01:41:57 on Mar 15,2024
+# vlog -reportprogress 300 -work work UART_tb.v 
+# -- Compiling module UART_tb
+# 
+# Top level modules:
+# 	UART_tb
+# End time: 01:41:57 on Mar 15,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim -voptargs="+acc" work.UART_tb -do "add wave *;run 5208000ns;" 
+# Start time: 01:41:57 on Mar 15,2024
+# Loading work.UART_tb
+# Loading work.UART
+# Loading work.Baud_gen
+# ** Error: (vsim-3033) Instantiation of 'PISO_reg' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /UART_tb/DUT File: UART.v Line: 15
+#         Searched libraries:
+#             E:/working/College and Courses/FPGA/project/codes/work
+# Error loading design
+# Error: Error loading design
+#        Pausing macro execution
+# MACRO ./run.do PAUSED at line 7
+do run.do
+# End time: 01:44:35 on Mar 15,2024, Elapsed time: 0:02:38
+# Errors: 1, Warnings: 22
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 01:44:35 on Mar 15,2024
+# vlog -reportprogress 300 -work work Baud_gen.v 
+# -- Compiling module Baud_gen
+# ** Warning: Baud_gen.v(11): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+# 
+# Top level modules:
+# 	Baud_gen
+# End time: 01:44:35 on Mar 15,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 1
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 01:44:35 on Mar 15,2024
+# vlog -reportprogress 300 -work work PISO_reg.v 
+# -- Compiling module Shift_reg
+# 
+# Top level modules:
+# 	Shift_reg
+# End time: 01:44:35 on Mar 15,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 01:44:35 on Mar 15,2024
+# vlog -reportprogress 300 -work work UART.v 
+# -- Compiling module UART
+# 
+# Top level modules:
+# 	UART
+# End time: 01:44:35 on Mar 15,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 01:44:35 on Mar 15,2024
+# vlog -reportprogress 300 -work work UART_tb.v 
+# -- Compiling module UART_tb
+# 
+# Top level modules:
+# 	UART_tb
+# End time: 01:44:35 on Mar 15,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim -voptargs="+acc" work.UART_tb -do "add wave *;run 5208000ns;" 
+# Start time: 01:44:35 on Mar 15,2024
+# Loading work.UART_tb
+# Loading work.UART
+# Loading work.Baud_gen
+# ** Error: (vsim-3033) Instantiation of 'PISO_reg' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /UART_tb/DUT File: UART.v Line: 15
+#         Searched libraries:
+#             E:/working/College and Courses/FPGA/project/codes/work
+# Error loading design
+# Error: Error loading design
+#        Pausing macro execution
+# MACRO ./run.do PAUSED at line 7
+do run.do
+# End time: 01:45:45 on Mar 15,2024, Elapsed time: 0:01:10
+# Errors: 1, Warnings: 1
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 01:45:45 on Mar 15,2024
+# vlog -reportprogress 300 -work work Baud_gen.v 
+# -- Compiling module Baud_gen
+# ** Warning: Baud_gen.v(11): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+# 
+# Top level modules:
+# 	Baud_gen
+# End time: 01:45:45 on Mar 15,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 1
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 01:45:45 on Mar 15,2024
+# vlog -reportprogress 300 -work work PISO_reg.v 
+# -- Compiling module Shift_reg
+# 
+# Top level modules:
+# 	Shift_reg
+# End time: 01:45:45 on Mar 15,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 01:45:45 on Mar 15,2024
+# vlog -reportprogress 300 -work work UART.v 
+# -- Compiling module UART
+# 
+# Top level modules:
+# 	UART
+# End time: 01:45:45 on Mar 15,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 01:45:45 on Mar 15,2024
+# vlog -reportprogress 300 -work work UART_tb.v 
+# -- Compiling module UART_tb
+# 
+# Top level modules:
+# 	UART_tb
+# End time: 01:45:45 on Mar 15,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim -voptargs="+acc" work.UART_tb -do "add wave *;run 5208000ns;" 
+# Start time: 01:45:46 on Mar 15,2024
+# Loading work.UART_tb
+# Loading work.UART
+# Loading work.Baud_gen
+# ** Error: (vsim-3033) Instantiation of 'PISO_reg' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /UART_tb/DUT File: UART.v Line: 15
+#         Searched libraries:
+#             E:/working/College and Courses/FPGA/project/codes/work
+# Error loading design
+# Error: Error loading design
+#        Pausing macro execution
+# MACRO ./run.do PAUSED at line 7
+do run.do
+# End time: 01:46:25 on Mar 15,2024, Elapsed time: 0:00:39
+# Errors: 1, Warnings: 1
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 01:46:25 on Mar 15,2024
+# vlog -reportprogress 300 -work work Baud_gen.v 
+# -- Compiling module Baud_gen
+# ** Warning: Baud_gen.v(11): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+# 
+# Top level modules:
+# 	Baud_gen
+# End time: 01:46:25 on Mar 15,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 1
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 01:46:25 on Mar 15,2024
+# vlog -reportprogress 300 -work work PISO_reg.v 
+# -- Compiling module Shift_reg
+# 
+# Top level modules:
+# 	Shift_reg
+# End time: 01:46:25 on Mar 15,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 01:46:25 on Mar 15,2024
+# vlog -reportprogress 300 -work work UART.v 
+# -- Compiling module UART
+# 
+# Top level modules:
+# 	UART
+# End time: 01:46:26 on Mar 15,2024, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 01:46:26 on Mar 15,2024
+# vlog -reportprogress 300 -work work UART_tb.v 
+# -- Compiling module UART_tb
+# 
+# Top level modules:
+# 	UART_tb
+# End time: 01:46:26 on Mar 15,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim -voptargs="+acc" work.UART_tb -do "add wave *;run 400ns;" 
+# Start time: 01:46:26 on Mar 15,2024
+# Loading work.UART_tb
+# Loading work.UART
+# Loading work.Baud_gen
+# ** Error: (vsim-3033) Instantiation of 'PISO_reg' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /UART_tb/DUT File: UART.v Line: 15
+#         Searched libraries:
+#             E:/working/College and Courses/FPGA/project/codes/work
+# Error loading design
+# Error: Error loading design
+#        Pausing macro execution
+# MACRO ./run.do PAUSED at line 7
+do run.do
+# End time: 01:49:08 on Mar 15,2024, Elapsed time: 0:02:42
+# Errors: 1, Warnings: 1
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 01:49:08 on Mar 15,2024
+# vlog -reportprogress 300 -work work Baud_gen.v 
+# -- Compiling module Baud_gen
+# ** Warning: Baud_gen.v(11): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+# 
+# Top level modules:
+# 	Baud_gen
+# End time: 01:49:08 on Mar 15,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 1
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 01:49:08 on Mar 15,2024
+# vlog -reportprogress 300 -work work PISO_reg.v 
+# -- Compiling module Shift_reg
+# 
+# Top level modules:
+# 	Shift_reg
+# End time: 01:49:08 on Mar 15,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 01:49:08 on Mar 15,2024
+# vlog -reportprogress 300 -work work UART.v 
+# -- Compiling module UART
+# 
+# Top level modules:
+# 	UART
+# End time: 01:49:08 on Mar 15,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 01:49:08 on Mar 15,2024
+# vlog -reportprogress 300 -work work UART_tb.v 
+# -- Compiling module UART_tb
+# 
+# Top level modules:
+# 	UART_tb
+# End time: 01:49:08 on Mar 15,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim -voptargs="+acc" work.UART_tb -do "add wave *;run 400ns;" 
+# Start time: 01:49:08 on Mar 15,2024
+# Loading work.UART_tb
+# Loading work.UART
+# Loading work.Baud_gen
+# Loading work.Shift_reg
+# ** Error (suppressible): (vsim-3053) Illegal output or inout port connection for port 'out'.
+#    Time: 0 ps  Iteration: 0  Instance: /UART_tb/DUT/Memout File: UART.v Line: 15
+# Error loading design
+# Error: Error loading design
+#        Pausing macro execution
+# MACRO ./run.do PAUSED at line 7
+do run.do
+# End time: 01:52:35 on Mar 15,2024, Elapsed time: 0:03:27
+# Errors: 1, Warnings: 1
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 01:52:35 on Mar 15,2024
+# vlog -reportprogress 300 -work work Baud_gen.v 
+# -- Compiling module Baud_gen
+# ** Warning: Baud_gen.v(11): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+# 
+# Top level modules:
+# 	Baud_gen
+# End time: 01:52:35 on Mar 15,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 1
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 01:52:36 on Mar 15,2024
+# vlog -reportprogress 300 -work work PISO_reg.v 
+# -- Compiling module Shift_reg
+# 
+# Top level modules:
+# 	Shift_reg
+# End time: 01:52:36 on Mar 15,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 01:52:36 on Mar 15,2024
+# vlog -reportprogress 300 -work work UART.v 
+# -- Compiling module UART
+# 
+# Top level modules:
+# 	UART
+# End time: 01:52:36 on Mar 15,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 01:52:36 on Mar 15,2024
+# vlog -reportprogress 300 -work work UART_tb.v 
+# -- Compiling module UART_tb
+# 
+# Top level modules:
+# 	UART_tb
+# End time: 01:52:36 on Mar 15,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim -voptargs="+acc" work.UART_tb -do "add wave *;run 400ns;" 
+# Start time: 01:52:36 on Mar 15,2024
+# Loading work.UART_tb
+# Loading work.UART
+# Loading work.Baud_gen
+# Loading work.Shift_reg
+# ** Error (suppressible): (vsim-3053) Illegal output or inout port connection for port 'out'.
+#    Time: 0 ps  Iteration: 0  Instance: /UART_tb/DUT/Memout File: UART.v Line: 15
+# Error loading design
+# Error: Error loading design
+#        Pausing macro execution
+# MACRO ./run.do PAUSED at line 7
+do run.do
+# End time: 01:52:53 on Mar 15,2024, Elapsed time: 0:00:17
+# Errors: 1, Warnings: 1
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 01:52:53 on Mar 15,2024
+# vlog -reportprogress 300 -work work Baud_gen.v 
+# -- Compiling module Baud_gen
+# ** Warning: Baud_gen.v(11): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+# 
+# Top level modules:
+# 	Baud_gen
+# End time: 01:52:53 on Mar 15,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 1
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 01:52:53 on Mar 15,2024
+# vlog -reportprogress 300 -work work PISO_reg.v 
+# -- Compiling module Shift_reg
+# 
+# Top level modules:
+# 	Shift_reg
+# End time: 01:52:53 on Mar 15,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 01:52:53 on Mar 15,2024
+# vlog -reportprogress 300 -work work UART.v 
+# -- Compiling module UART
+# 
+# Top level modules:
+# 	UART
+# End time: 01:52:53 on Mar 15,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 01:52:53 on Mar 15,2024
+# vlog -reportprogress 300 -work work UART_tb.v 
+# -- Compiling module UART_tb
+# 
+# Top level modules:
+# 	UART_tb
+# End time: 01:52:53 on Mar 15,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim -voptargs="+acc" work.UART_tb -do "add wave *;run 400ns;" 
+# Start time: 01:52:53 on Mar 15,2024
+# Loading work.UART_tb
+# Loading work.UART
+# Loading work.Baud_gen
+# Loading work.Shift_reg
+# ** Error (suppressible): (vsim-3053) Illegal output or inout port connection for port 'out'.
+#    Time: 0 ps  Iteration: 0  Instance: /UART_tb/DUT/Memout File: UART.v Line: 15
+# Error loading design
+# Error: Error loading design
+#        Pausing macro execution
+# MACRO ./run.do PAUSED at line 7
+# End time: 01:53:11 on Mar 15,2024, Elapsed time: 0:00:18
+# Errors: 1, Warnings: 1

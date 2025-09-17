@@ -1,0 +1,15 @@
+{E:/working/College and Courses/FPGA/Verilog Code/assignment 3/FF.v} {1 {vlog -work work -stats=none {E:/working/College and Courses/FPGA/Verilog Code/assignment 3/FF.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ff
+
+Top level modules:
+	ff
+
+} {} {}} {E:/working/College and Courses/FPGA/Verilog Code/assignment 3/ModN_Counter.v} {1 {vlog -work work -stats=none {E:/working/College and Courses/FPGA/Verilog Code/assignment 3/ModN_Counter.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module counter
+
+Top level modules:
+	counter
+
+} {} {}}
